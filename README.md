@@ -1,7 +1,3 @@
-# medha-ai-learning-platform
-AI-powered video-to-knowledge learning platform with multilingual learning, RAG-based tutoring, flashcards, and a concept knowledge graph.
-
-
 
 # Medhā — AI-Powered Video-to-Knowledge Learning Platform
 
