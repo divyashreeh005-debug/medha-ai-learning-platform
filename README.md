@@ -152,7 +152,6 @@ Run the tests that actually exist in the repository. Record failures honestly; d
 ### Recommended regression tests
 
 - Timestamped English lecture.
-- Hindi lecture.
 - Another supported non-English lecture.
 - One-shot video without timestamps.
 - Long transcript.
