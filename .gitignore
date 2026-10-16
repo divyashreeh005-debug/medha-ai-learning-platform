@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated data and indexes
+data/concept_graphs/*
+data/concept_intelligence/*
+data/content_cache/*
+data/memory_cards/*
+data/translations/*
+data/vector_store/*
+data/faiss/*
+
+# Keep empty session directory
+data/sessions/*
+!data/sessions/.gitkeep
